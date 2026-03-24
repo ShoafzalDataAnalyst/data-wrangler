@@ -68,12 +68,8 @@ Or add it to Streamlit Cloud secrets.
 ## 📦 Sample Datasets
 
 Two sample datasets are included in `sample_data/` for demonstration:
-- `dataset1.csv` — *description*
-- `dataset2.xlsx` — *description*
+- `sales_data.csv` 
+- `hr_data.xlsx`
 
 ---
 
-## 👥 Team
-
-- Student 1 name
-- Student 2 name
