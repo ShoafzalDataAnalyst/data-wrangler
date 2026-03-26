@@ -38,7 +38,7 @@ data_wrangler/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/data-wrangler.git
+git clone https://github.com/ShoafzalDataAnalyst/data-wrangler.git
 cd data-wrangler
 ```
 
