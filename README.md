@@ -1,4 +1,4 @@
-# 🧹 AI-Assisted Data Wrangler & Visualizer
+# 🧹 AI-Assisted Data Wrangler & Visualizer | Streamlit
 
 > Coursework for **Data Wrangling and Visualization (5COSC038C)**
 
