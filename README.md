@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🧹 Data Wrangler
+=======
+# 🧹 AI-Assisted Data Wrangler & Visualizer | Streamlit
+>>>>>>> d01f6555a12fe04d98e26f64855ac1373bf8dbf4
 
 > Coursework for \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*Data Wrangling and Visualization (5COSC038C)\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*
 
@@ -57,6 +61,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+# or just paste this link to your browser:
+https://data-wrangler-6e9qvnawus4t8wfexgyt2h.streamlit.app/
+
 \---
 
 ## 🤖 AI Assistant
@@ -74,10 +81,18 @@ Or add it to Streamlit Cloud secrets.
 
 ## 📦 Sample Datasets
 
+<<<<<<< HEAD
 Two sample datasets are included in `sample\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_data/` for demonstration:
+=======
+Two sample datasets are included in `sample_data/` for demonstration:
+- `sales_data.csv` 
+- `hr_data.xlsx`
+>>>>>>> d01f6555a12fe04d98e26f64855ac1373bf8dbf4
 
 * `sales\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_data.csv`
 * `hr\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_data.xlsx`
 
+<<<<<<< HEAD
 \---
+
 
