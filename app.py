@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Data Wrangler & Visualizer",
+    page_title="Data Wrangler",
     page_icon="🧹",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -21,7 +21,7 @@ def init_session():
 
 init_session()
 
-st.sidebar.title("🧹 Data Wrangler")
+st.sidebar.title("Data Wrangler")
 st.sidebar.markdown("---")
 
 page = st.sidebar.radio(

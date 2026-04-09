@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-03-26 08:38:48",
+  "source_file": "sales_data.csv",
+  "original_shape": {
+    "rows": 2030,
+    "columns": 13
+  },
+  "cleaned_shape": {
+    "rows": 2003,
+    "columns": 13
+  },
+  "steps": [
+    {
+      "step": 1,
+      "operation": "Remove duplicates",
+      "params": {
+        "subset": null,
+        "keep": "first"
+      },
+      "columns": [
+        "all"
+      ],
+      "timestamp": "2026-03-26 08:36:03"
+    },
+    {
+      "step": 2,
+      "operation": "Convert \u2192 numeric",
+      "params": {},
+      "columns": [
+        "customer_age"
+      ],
+      "timestamp": "2026-03-26 08:36:22"
+    },
+    {
+      "step": 3,
+      "operation": "Convert \u2192 numeric",
+      "params": {},
+      "columns": [
+        "customer_age"
+      ],
+      "timestamp": "2026-03-26 08:36:26"
+    },
+    {
+      "step": 4,
+      "operation": "Lowercase",
+      "params": {},
+      "columns": [
+        "category"
+      ],
+      "timestamp": "2026-03-26 08:37:21"
+    },
+    {
+      "step": 5,
+      "operation": "Rename column",
+      "params": {
+        "from": "order_id",
+        "to": "order-id"
+      },
+      "columns": [
+        "order_id"
+      ],
+      "timestamp": "2026-03-26 08:37:41"
+    }
+  ]
+}
